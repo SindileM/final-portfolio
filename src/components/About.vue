@@ -15,7 +15,7 @@
           <h3>UI/UX &amp; Web Developer</h3>
           <p class="fst-italic">
             Sindile is a 22 year old aspiring full stack developer from Cape Town, South Africa.
-            I developed the love of he web from a young age and it just carried over into young adulthood..
+            I developed the love of the web from a young age and it just carried over into young adulthood..
           </p>
           <div class="row">
             <div class="col-lg-6">
@@ -34,8 +34,7 @@
             </div>
           </div>
           <p class="fst-italic">
-            Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-            Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+            The passion of working with computers and on the web came from the comfortability and familiarity it brought me. Building something and watching it come to life right before your eyes is such a wonderful feeling and solving all the errors that came with it brought me a sense of satisfaction that I would not get anywhere else. That is why I am an aspiring Frontend Developer. 
           </p>
         </div>
       </div>

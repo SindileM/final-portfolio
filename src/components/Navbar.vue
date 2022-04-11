@@ -8,7 +8,7 @@
           <li><a href="#testimonials" class="nav-link" >Testimonial</a></li>
           <li><a href="#contact" class="nav-link" >Contact</a></li>
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
+        <i class="fa fa-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 </template>
 <script>
