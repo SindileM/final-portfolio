@@ -41,7 +41,7 @@ export default {
         }
     },
     mounted(){
-        fetch('https://sindile-portfolio.herokuapp.com/projects')
+        fetch('https://sindile-portfolio.herokuapp.com/testimonials')
         .then(res => res.json())
         .then(data =>{
             this.testimonial = data
